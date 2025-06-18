@@ -1,1 +1,1 @@
-#+title: ndd's thr0n3 software stack
+#+title: ngdangdat homelab stack
